@@ -1,0 +1,26 @@
+_repo: Absalons-Br-nd_40291
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40291-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bauditz, Sophus
+    birthdate: 1850
+    deathdate: 1915
+    gutenberg_agent_id: '40530'
+    url: http://www.gutenberg.org/2009/agents/40530
+description: ''
+gutenberg_issued: '2012-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40291'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Danish fiction'
+title: Absalons Brønd
+url: http://www.gutenberg.org/ebooks/40291
